@@ -1,4 +1,4 @@
-Hi 👋 My name is Barış Sönmez
+Hi, my name is Barış Sönmez
 =============================
 
 Full Stack Developer
